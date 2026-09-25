@@ -20,6 +20,7 @@ Run the scripts with `uv run scripts/reconcile.py` then `uv run scripts/write_sh
 
 ## Deploying
 
-The site is plain static files served from the root of the `main` branch.
-In the GitHub repo: Settings → Pages → Source: "Deploy from a branch",
-Branch: `main`, folder `/ (root)`.
+`.github/workflows/pages.yml` publishes the repo root to GitHub Pages on every
+push to `main` (it also tries to enable Pages on first run). If the first run
+fails on the Pages step, set Settings → Pages → Source to "GitHub Actions"
+once and re-run the workflow.
