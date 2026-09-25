@@ -1,0 +1,602 @@
+[
+ {
+  "title": "Breaking Bad",
+  "years": "2008-2013",
+  "qid": "Q1079",
+  "wiki": "Breaking Bad"
+ },
+ {
+  "title": "The Wire",
+  "years": "2002-2008",
+  "qid": "Q478360",
+  "wiki": "The Wire"
+ },
+ {
+  "title": "Mad Men",
+  "years": "2007-2015",
+  "qid": "Q223977",
+  "wiki": "Mad Men"
+ },
+ {
+  "title": "Succession",
+  "years": "2018-2023",
+  "qid": "Q30599007",
+  "wiki": "Succession (TV series)"
+ },
+ {
+  "title": "Fleabag",
+  "years": "2016-2019",
+  "qid": "Q16868648",
+  "wiki": "Fleabag"
+ },
+ {
+  "title": "Game of Thrones",
+  "years": "2011-2019",
+  "qid": "Q23572",
+  "wiki": "Game of Thrones"
+ },
+ {
+  "title": "Veep",
+  "years": "2012-2019",
+  "qid": "Q74801",
+  "wiki": "Veep"
+ },
+ {
+  "title": "30 Rock",
+  "years": "2006-2013",
+  "qid": "Q189350",
+  "wiki": "30 Rock"
+ },
+ {
+  "title": "Curb Your Enthusiasm",
+  "years": "2000-2024",
+  "qid": "Q23722",
+  "wiki": "Curb Your Enthusiasm"
+ },
+ {
+  "title": "Atlanta",
+  "years": "2016-2022",
+  "qid": "Q23016639",
+  "wiki": "Atlanta (TV series)"
+ },
+ {
+  "title": "The Office (U.S.)",
+  "years": "2005-2013",
+  "qid": "Q23831",
+  "wiki": "The Office (American TV series)"
+ },
+ {
+  "title": "Arrested Development",
+  "years": "2003-2019",
+  "qid": "Q11598",
+  "wiki": "Arrested Development"
+ },
+ {
+  "title": "Girls",
+  "years": "2012-2017",
+  "qid": "Q618329",
+  "wiki": "Girls (TV series)"
+ },
+ {
+  "title": "Friday Night Lights",
+  "years": "2006-2011",
+  "qid": "Q4507",
+  "wiki": "Friday Night Lights (TV series)"
+ },
+ {
+  "title": "Six Feet Under",
+  "years": "2001-2005",
+  "qid": "Q216919",
+  "wiki": "Six Feet Under (TV series)"
+ },
+ {
+  "title": "The Office (U.K.)",
+  "years": "2001-2003",
+  "qid": "Q23829",
+  "wiki": "The Office (British TV series)"
+ },
+ {
+  "title": "The Americans",
+  "years": "2013-2018",
+  "qid": "Q498438",
+  "wiki": "The Americans"
+ },
+ {
+  "title": "I May Destroy You",
+  "years": "2020",
+  "qid": "Q96079649",
+  "wiki": "I May Destroy You"
+ },
+ {
+  "title": "Chernobyl",
+  "years": "2019",
+  "qid": "Q48741246",
+  "wiki": "Chernobyl (miniseries)"
+ },
+ {
+  "title": "The Crown",
+  "years": "2016-2023",
+  "qid": "Q20707362",
+  "wiki": "The Crown (TV series)"
+ },
+ {
+  "title": "The White Lotus",
+  "years": "2021-present",
+  "qid": "Q106679014",
+  "wiki": "The White Lotus"
+ },
+ {
+  "title": "Lost",
+  "years": "2004-2010",
+  "qid": "Q23567",
+  "wiki": "Lost (TV series)"
+ },
+ {
+  "title": "The Comeback",
+  "years": "2005-2026",
+  "qid": "Q478037",
+  "wiki": "The Comeback (TV series)"
+ },
+ {
+  "title": "Deadwood",
+  "years": "2004-2006",
+  "qid": "Q1050603",
+  "wiki": "Deadwood (TV series)"
+ },
+ {
+  "title": "The Leftovers",
+  "years": "2014-2017",
+  "qid": "Q16468818",
+  "wiki": "The Leftovers (TV series)"
+ },
+ {
+  "title": "Black Mirror",
+  "years": "2011-present",
+  "qid": "Q558112",
+  "wiki": "Black Mirror"
+ },
+ {
+  "title": "Better Call Saul",
+  "years": "2015-2022",
+  "qid": "Q14925221",
+  "wiki": "Better Call Saul"
+ },
+ {
+  "title": "Band of Brothers",
+  "years": "2001",
+  "qid": "Q208048",
+  "wiki": "Band of Brothers (miniseries)"
+ },
+ {
+  "title": "Key & Peele",
+  "years": "2012-2015",
+  "qid": "Q6398006",
+  "wiki": "Key & Peele"
+ },
+ {
+  "title": "Severance",
+  "years": "2022-present",
+  "qid": "Q101096725",
+  "wiki": "Severance (TV series)"
+ },
+ {
+  "title": "Survivor",
+  "years": "2000-present",
+  "qid": "Q28856068",
+  "wiki": "Survivor (American TV series)"
+ },
+ {
+  "title": "Andor",
+  "years": "2022-2025",
+  "qid": "Q60462338",
+  "wiki": "Andor"
+ },
+ {
+  "title": "Enlightened",
+  "years": "2011-2013",
+  "qid": "Q2058771",
+  "wiki": "Enlightened (TV series)"
+ },
+ {
+  "title": "Schitt’s Creek",
+  "years": "2015-2020",
+  "qid": "Q17111973",
+  "wiki": "Schitt's Creek"
+ },
+ {
+  "title": "True Detective (Season 1)",
+  "years": "2014",
+  "qid": "Q7847400",
+  "wiki": "True Detective"
+ },
+ {
+  "title": "The Pitt",
+  "years": "2025-present",
+  "qid": "Q131431817",
+  "wiki": "The Pitt"
+ },
+ {
+  "title": "Battlestar Galactica",
+  "years": "2005-2009",
+  "qid": "Q237072",
+  "wiki": "Battlestar Galactica (2004 TV series)"
+ },
+ {
+  "title": "Homeland",
+  "years": "2011-2020",
+  "qid": "Q23594",
+  "wiki": "Homeland (TV series)"
+ },
+ {
+  "title": "Watchmen",
+  "years": "2019",
+  "qid": "Q56153643",
+  "wiki": "Watchmen (TV series)"
+ },
+ {
+  "title": "Adolescence",
+  "years": "2025",
+  "qid": "Q127774333",
+  "wiki": "Adolescence (TV series)"
+ },
+ {
+  "title": "Louie",
+  "years": "2010-2015",
+  "qid": "Q23536",
+  "wiki": "Louie (American TV series)"
+ },
+ {
+  "title": "Hacks",
+  "years": "2021-2026",
+  "qid": "Q106819328",
+  "wiki": "Hacks"
+ },
+ {
+  "title": "Peaky Blinders",
+  "years": "2013-2022",
+  "qid": "Q14944179",
+  "wiki": "Peaky Blinders (TV series)"
+ },
+ {
+  "title": "BoJack Horseman",
+  "years": "2014-2020",
+  "qid": "Q17733404",
+  "wiki": "BoJack Horseman"
+ },
+ {
+  "title": "Happy Valley",
+  "years": "2014-2023",
+  "qid": "Q16993664",
+  "wiki": "Happy Valley (TV series)"
+ },
+ {
+  "title": "Broad City",
+  "years": "2014-2019",
+  "qid": "Q16155320",
+  "wiki": "Broad City"
+ },
+ {
+  "title": "Twin Peaks: The Return",
+  "years": "2017",
+  "qid": "Q23971551",
+  "wiki": "Twin Peaks season 3"
+ },
+ {
+  "title": "House of Cards",
+  "years": "2013-2018",
+  "qid": "Q3330940",
+  "wiki": "House of Cards (American TV series)"
+ },
+ {
+  "title": "Normal People",
+  "years": "2020",
+  "qid": "Q81672757",
+  "wiki": "Normal People (TV series)"
+ },
+ {
+  "title": "Parks and Recreation",
+  "years": "2009-2015",
+  "qid": "Q218035",
+  "wiki": "Parks and Recreation"
+ },
+ {
+  "title": "The Good Place",
+  "years": "2016-2020",
+  "qid": "Q22908690",
+  "wiki": "The Good Place"
+ },
+ {
+  "title": "Downton Abbey",
+  "years": "2010-2015",
+  "qid": "Q83071",
+  "wiki": "Downton Abbey"
+ },
+ {
+  "title": "Stranger Things",
+  "years": "2016-2025",
+  "qid": "Q19798734",
+  "wiki": "Stranger Things"
+ },
+ {
+  "title": "The Bureau",
+  "years": "2015-2020",
+  "qid": "Q19593743",
+  "wiki": "The Bureau (TV series)"
+ },
+ {
+  "title": "Insecure",
+  "years": "2016-2021",
+  "qid": "Q26689564",
+  "wiki": "Insecure (TV series)"
+ },
+ {
+  "title": "Nathan for You",
+  "years": "2013-2017",
+  "qid": "Q10935299",
+  "wiki": "Nathan for You"
+ },
+ {
+  "title": "I Think You Should Leave",
+  "years": "2019-present",
+  "qid": "Q63689230",
+  "wiki": "I Think You Should Leave with Tim Robinson"
+ },
+ {
+  "title": "Chappelle’s Show",
+  "years": "2003-2006",
+  "qid": "Q1062804",
+  "wiki": "Chappelle's Show"
+ },
+ {
+  "title": "PEN15",
+  "years": "2019-2021",
+  "qid": "Q55080234",
+  "wiki": "Pen15"
+ },
+ {
+  "title": "Peep Show",
+  "years": "2003-2015",
+  "qid": "Q1519256",
+  "wiki": "Peep Show (British TV series)"
+ },
+ {
+  "title": "RuPaul’s Drag Race",
+  "years": "2009-present",
+  "qid": "Q169844",
+  "wiki": "RuPaul's Drag Race"
+ },
+ {
+  "title": "Slow Horses",
+  "years": "2022-present",
+  "qid": "Q104880809",
+  "wiki": "Slow Horses"
+ },
+ {
+  "title": "The Thick of It",
+  "years": "2005-2012",
+  "qid": "Q568201",
+  "wiki": "The Thick of It"
+ },
+ {
+  "title": "Anthony Bourdain: Parts Unknown",
+  "years": "2013-2018",
+  "qid": "Q15994894",
+  "wiki": "Anthony Bourdain: Parts Unknown"
+ },
+ {
+  "title": "Mare of Easttown",
+  "years": "2021",
+  "qid": "Q61040213",
+  "wiki": "Mare of Easttown"
+ },
+ {
+  "title": "The Rehearsal",
+  "years": "2022-present",
+  "qid": "Q112915576",
+  "wiki": "The Rehearsal (TV series)"
+ },
+ {
+  "title": "The Handmaid’s Tale",
+  "years": "2017-2025",
+  "qid": "Q25207350",
+  "wiki": "The Handmaid's Tale (TV series)"
+ },
+ {
+  "title": "Ozark",
+  "years": "2017-2022",
+  "qid": "Q25205293",
+  "wiki": "Ozark (TV series)"
+ },
+ {
+  "title": "Anthony Bourdain: No Reservations",
+  "years": "2005-2012",
+  "qid": "Q572914",
+  "wiki": "Anthony Bourdain: No Reservations"
+ },
+ {
+  "title": "The Shield",
+  "years": "2002-2008",
+  "qid": "Q265152",
+  "wiki": "The Shield"
+ },
+ {
+  "title": "Beef (Season 1)",
+  "years": "2023",
+  "qid": "Q112168983",
+  "wiki": "Beef (TV series)"
+ },
+ {
+  "title": "Squid Game",
+  "years": "2021-2025",
+  "qid": "Q106582931",
+  "wiki": "Squid Game"
+ },
+ {
+  "title": "Barry",
+  "years": "2018-2023",
+  "qid": "Q26812664",
+  "wiki": "Barry (TV series)"
+ },
+ {
+  "title": "The Bear",
+  "years": "2022-2026",
+  "qid": "Q112761982",
+  "wiki": "The Bear (TV series)"
+ },
+ {
+  "title": "Ted Lasso",
+  "years": "2020-present",
+  "qid": "Q96407897",
+  "wiki": "Ted Lasso"
+ },
+ {
+  "title": "Somebody Somewhere",
+  "years": "2022-2024",
+  "qid": "Q110486834",
+  "wiki": "Somebody Somewhere (TV series)"
+ },
+ {
+  "title": "Modern Family",
+  "years": "2009-2020",
+  "qid": "Q16756",
+  "wiki": "Modern Family"
+ },
+ {
+  "title": "It’s Always Sunny in Philadelphia",
+  "years": "2005-present",
+  "qid": "Q23670",
+  "wiki": "It's Always Sunny in Philadelphia"
+ },
+ {
+  "title": "The Good Wife",
+  "years": "2009-2016",
+  "qid": "Q19570",
+  "wiki": "The Good Wife"
+ },
+ {
+  "title": "How To With John Wilson",
+  "years": "2020-2023",
+  "qid": "Q85767522",
+  "wiki": "How To with John Wilson"
+ },
+ {
+  "title": "The Queen’s Gambit",
+  "years": "2020",
+  "qid": "Q85808226",
+  "wiki": "The Queen's Gambit (miniseries)"
+ },
+ {
+  "title": "Better Things",
+  "years": "2016-2022",
+  "qid": "Q23016657",
+  "wiki": "Better Things (TV series)"
+ },
+ {
+  "title": "Justified",
+  "years": "2010-2015",
+  "qid": "Q1535208",
+  "wiki": "Justified (TV series)"
+ },
+ {
+  "title": "Planet Earth",
+  "years": "2006",
+  "qid": "Q377165",
+  "wiki": "Planet Earth (2006 TV series)"
+ },
+ {
+  "title": "The Great British Baking Show",
+  "years": "2010-present",
+  "qid": "Q7737672",
+  "wiki": "The Great British Bake Off"
+ },
+ {
+  "title": "Shogun",
+  "years": "2024-present",
+  "qid": "Q56276181",
+  "wiki": "Shōgun (2024 TV series)"
+ },
+ {
+  "title": "Reservation Dogs",
+  "years": "2021-2023",
+  "qid": "Q104902493",
+  "wiki": "Reservation Dogs"
+ },
+ {
+  "title": "Dexter",
+  "years": "2006-2013",
+  "qid": "Q23577",
+  "wiki": "Dexter (TV series)"
+ },
+ {
+  "title": "Baby Reindeer",
+  "years": "2024",
+  "qid": "Q115516641",
+  "wiki": "Baby Reindeer"
+ },
+ {
+  "title": "Eastbound & Down",
+  "years": "2009-2013",
+  "qid": "Q673669",
+  "wiki": "Eastbound & Down"
+ },
+ {
+  "title": "Catastrophe",
+  "years": "2015-2019",
+  "qid": "Q18786440",
+  "wiki": "Catastrophe (2015 TV series)"
+ },
+ {
+  "title": "The Night Of",
+  "years": "2016",
+  "qid": "Q17986725",
+  "wiki": "The Night Of"
+ },
+ {
+  "title": "Station Eleven",
+  "years": "2021-2022",
+  "qid": "Q85803299",
+  "wiki": "Station Eleven (miniseries)"
+ },
+ {
+  "title": "The Diplomat",
+  "years": "2023-present",
+  "qid": "Q117425241",
+  "wiki": "The Diplomat (American TV series)"
+ },
+ {
+  "title": "House",
+  "years": "2004-2012",
+  "qid": "Q23558",
+  "wiki": "House (TV series)"
+ },
+ {
+  "title": "Halt and Catch Fire",
+  "years": "2014-2017",
+  "qid": "Q15072819",
+  "wiki": "Halt and Catch Fire (TV series)"
+ },
+ {
+  "title": "Community",
+  "years": "2009-2015",
+  "qid": "Q728553",
+  "wiki": "Community (TV series)"
+ },
+ {
+  "title": "The OA",
+  "years": "2016-2019",
+  "qid": "Q19798744",
+  "wiki": "The OA"
+ },
+ {
+  "title": "Gilmore Girls",
+  "years": "2000-2007",
+  "qid": "Q193462",
+  "wiki": "Gilmore Girls"
+ },
+ {
+  "title": "Scandal",
+  "years": "2012-2018",
+  "qid": "Q1525645",
+  "wiki": "Scandal (TV series)"
+ }
+]

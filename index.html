@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>My 100 Best TV Shows</title>
+  <meta name="description" content="Rearrange, swap and share your own version of the 100 best TV shows of the 21st century.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&family=Libre+Franklin:ital,wght@0,400;0,500;0,700;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="toolbar" id="toolbar">
+  <div class="toolbar-inner">
+    <div class="toolbar-title">
+      <strong>Make your own 100 best TV shows list</strong>
+      <span class="hint">Drag rows to reorder. Hover a row to swap or remove it. Click the headline to give your list its own title. Everything saves in your browser.</span>
+    </div>
+    <div class="toolbar-actions">
+      <button type="button" id="btn-add">+ Add a show</button>
+      <button type="button" id="btn-download-image">Download image</button>
+      <button type="button" id="btn-download-text">Download text</button>
+      <button type="button" id="btn-reset" class="danger">Reset list</button>
+    </div>
+  </div>
+</header>
+
+<main class="page">
+  <div class="sheet-wrap">
+    <article class="sheet" id="sheet">
+      <div class="masthead">
+        <div class="kicker">A personal ranking, remixed from The New York Times list</div>
+        <h1 class="headline" id="headline" contenteditable="true" spellcheck="false"
+            data-placeholder="Give your list a title"></h1>
+      </div>
+
+      <div class="rule"></div>
+      <div class="col-heads">
+        <div class="col-head"><span class="box-head">I&rsquo;ve<br>seen<br>it</span><span class="box-head">I want<br>to<br>see it</span></div>
+        <div class="col-head"><span class="box-head">I&rsquo;ve<br>seen<br>it</span><span class="box-head">I want<br>to<br>see it</span></div>
+      </div>
+      <div class="rule"></div>
+
+      <ol class="list" id="list"></ol>
+
+      <div class="rule"></div>
+      <footer class="sheet-footer">
+        <span>Make your own at <a id="site-link" href="https://thisismattmiller.github.io/nyt-100-tv/">thisismattmiller.github.io/nyt-100-tv</a></span>
+        <span class="credit">Based on the original list at nytimes.com/bestTV</span>
+      </footer>
+    </article>
+  </div>
+</main>
+
+<dialog id="dlg">
+  <form method="dialog" id="dlg-form">
+    <h2 id="dlg-heading">Add a show</h2>
+
+    <label class="field">
+      <span>Search Wikidata (optional)</span>
+      <input type="search" id="dlg-search" placeholder="Start typing a show name&hellip;" autocomplete="off">
+    </label>
+    <ul id="dlg-results" class="results" hidden></ul>
+
+    <label class="field">
+      <span>Title</span>
+      <input type="text" id="dlg-title" required autocomplete="off">
+    </label>
+    <label class="field">
+      <span>Years</span>
+      <input type="text" id="dlg-years" placeholder="e.g. 2019-present" autocomplete="off">
+    </label>
+    <label class="field">
+      <span>English Wikipedia article title (optional)</span>
+      <input type="text" id="dlg-wiki" placeholder="e.g. Breaking Bad" autocomplete="off">
+    </label>
+    <input type="hidden" id="dlg-qid">
+
+    <div class="dlg-actions">
+      <button type="button" id="dlg-cancel" class="secondary">Cancel</button>
+      <button type="submit" id="dlg-save">Save</button>
+    </div>
+  </form>
+</dialog>
+
+<div id="toast" class="toast" role="status" aria-live="polite"></div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.15.6/Sortable.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+<script src="shows.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
